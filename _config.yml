@@ -1,16 +1,16 @@
-typography_spectrum: 0.31660859123803675
+layout_spectrum: 0.5543584239203483
+typography_spectrum: 0.02271281974390149
 color:
-  brandStrength: 0.6045908448286355
-  lightness: 0.7319360461551696
-  saturation: 0.9290306218899786
-  rhythmicContrast: 0.36188588640652597
+  brandStrength: 0.5250799846835434
+  lightness: 0.02178662410005927
+  saturation: 0.7349486963357776
+  rhythmicContrast: 0.9665246356744319
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.8119974443688989
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: JJCD
 title: Some of my latest work
 description: explore it...
